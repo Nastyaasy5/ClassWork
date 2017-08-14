@@ -1,0 +1,16 @@
+target
+target/
+.project
+.classpath
+.settings
+*.log
+bin/
+files/runtime/
+files/static/preload/taf
+.pydevproject
+.idea
+qa-framework.*
+*py[cod]
+local.properties
+
+
